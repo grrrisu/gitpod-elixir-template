@@ -7,7 +7,7 @@ defmodule Animals do
   create_zoo returns a list of zoo animals
   """
   def create_zoo do
-    ["lion", "tiger", "gorilla", "elephant", "monke", "giraffe"]
+    ["lion", "tiger", "gorilla", "elephant", "monkey", "giraffe"]
   end
 
   @doc """
